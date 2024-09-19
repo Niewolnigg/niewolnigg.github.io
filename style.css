@@ -1,53 +1,10 @@
-/* Ogólny styl strony */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-    margin: 0;
-    padding: 0;
+p{
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 550;
 }
 
-/* Stylizacja nagłówka */
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-
-/* Stylizacja sekcji */
-section {
-    padding: 20px;
-    text-align: center;
-}
-
-/* Stylizacja tekstu */
-h1, h2 {
-    color: #4CAF50;
-}
-
-p {
-    font-size: 16px;
-    line-height: 1.6;
-    color: #666;
-}
-
-/* Stylizacja obrazu */
-.volleyball-image {
-    max-width: 100%;
-    height: auto;
-    margin: 20px 0;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Stylizacja stopki */
-footer {
-    background-color: #333;
-    color: white;
-    padding: 10px;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+body
+{
+    background-color: plum;
 }
